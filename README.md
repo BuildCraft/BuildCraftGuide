@@ -22,7 +22,7 @@ Both of the options need [git](https://git-scm.com/) installed, or one of the [G
 
 ### The better way
 
-This is identical to the simple way, but uses a [symbolic link](https://en.wikipedia.org/wiki/Symbolic_link#Overview) rather than copying the folder across. (This saves time when testing out changes to the git repository, as modifications to the git-tracked directory will also update the symbolic linked directory).
+This is identical to the simple way, but uses a symbolic link ([wikipedia](https://en.wikipedia.org/wiki/Symbolic_link#Overview)) rather than copying the folder across. (This saves time when testing out changes to the git repository, as modifications to the git-tracked directory will also update the symbolic linked directory).
 
 Note that a symbolic link is *not* the same as a windows shortcut, as they work in different ways.
 

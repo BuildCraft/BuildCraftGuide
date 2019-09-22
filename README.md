@@ -43,7 +43,7 @@ Note that a symbolic link is *not* the same as a windows shortcut, as they work 
 
 ## Contributing
 
-Unlike testing there are a few additional steps you need to take to contribute to this repository. You'll need a github account, and a fork of this repository. You'll also need reasonable knowledge of working with git itself (to update your forked version to the latest version on github, pushing your own changes, switching brances, etc).
+Unlike testing there are a few additional steps you need to take to contribute to this repository. You'll need a github account, and a fork of this repository. You'll also need reasonable knowledge of working with git itself (to update your forked version to the latest version on github, pushing your own changes, switching branches, etc).
 
 While it's possible to contribute directly through github's website please limit this to only minor changes - as you won't be able to test your changes.
 

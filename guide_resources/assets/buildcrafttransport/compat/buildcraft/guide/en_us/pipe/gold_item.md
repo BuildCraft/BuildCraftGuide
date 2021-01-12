@@ -1,12 +1,12 @@
 <no_lore>
-A Gold Transport Pipe is used to quickly transport items from a pipe into either another adjacent pipe or inventory.
+A Gold Transport Pipe is used to quickly transport them to connecting pipes/inventories.
 
 The Gold Transport pipe gives transported items a large speed boost so they will travel around pipes faster.
 
-Incase of their being multiple directions items could go, the items will go in a random direction.(It is recommended to use pipe plugs to stop the multiple connections).
-Items will not travel back in the direction it came from and only in a different direction.
-If there is no connecting pipe or the adjacent inventory is full and there is no where else for the item to go, the item will drop out of the pipe onto the ground.
+If it has multiple connecting sides, the items will travel in a random direction.
+Items will not travel back in the direction it came from and only go a different direction.
+If there is no where for the travelling items to go, they will be dropped out of the pipe onto the ground.
 
-Some machines can automatically output items directly into a Gold Transport Pipe without needing to be fed through an extraction pipe.
+Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
+Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 </no_lore>
-// TODO: Link to main pipe page!

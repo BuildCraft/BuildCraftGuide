@@ -1,12 +1,13 @@
 <no_lore>
-A Clay Transport Pipe is used to transport items from a pipe into either another adjacent pipe or inventory.
+A Clay Transport Pipe is used to transport items from a pipe into a connecting pipes/inventories.
 
-The Clay Transport pipe will priotitise trying to insert items into an adjacent inventory before traveling to the next pipe.
+The Clay Transport pipe will priotitise trying to insert items into an inventory before traveling onwards.
 
-Incase of their being multiple directions items could go, the items will prioritise an adjacent inventory before going in a random direction.(It is recommended to use pipe plugs to stop the multiple connections).
-Items will not travel back in the direction it came from and only in a different direction.
-If there is no connecting pipe or the adjacent inventory is full and there is no where else for the item to go, the item will drop out of the pipe onto the ground.
+If it has multiple connecting sides, the items will prioritise a connected inventory before travelling in a random direction.
+Items will not travel back in the direction it came from and only go a different direction.
+If there is no where for the travelling items to go, they will be dropped out of the pipe onto the ground.
 
-Some machines can automatically output items directly into a Clay Transport Pipe without needing to be fed through an extraction pipe.
+Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
+Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 </no_lore>
 // TODO: Link to main pipe page!

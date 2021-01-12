@@ -1,10 +1,12 @@
 <no_lore>
-A Sandstone Transport Pipe is used to transport items from a pipe into another adjacent pipe.
+A Sandstone Transport Pipe is used to transport items from a pipe into connecting pipes.
 
 It does not connect to any machine so it only connects to other pipes.
 
-Incase of their being multiple directions items could go, the items will go in a random direction.(It is recommended to use pipe plugs to stop the multiple connections).
-Items will not travel back in the direction it came from and only in a different direction.
-If there is no connecting pipe and there is no where else for the item to go, the item will drop out of the pipe onto the ground.
+If it has multiple connecting sides, the items will travel in a random direction.
+Items will not travel back in the direction it came from and only go a different direction.
+If there is no where for the travelling items to go, they will be dropped out of the pipe onto the ground.
+
+Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
+Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 </no_lore>
-// TODO: Link to main pipe page!

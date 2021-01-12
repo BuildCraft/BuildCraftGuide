@@ -1,12 +1,12 @@
 <no_lore>
-A Iron Transport Pipe is used to transport items from a pipe in one direction towards either an another adjacent pipe or inventory.
+A Iron Transport Pipe is used to transport items from a pipe in one direction towards a connecting pipe/inventory.
 
-The direction that the items will travel is in through the solid side of the pipe and out towards the clear facing side.
-You can change the direction the items will travel to by whacking the side of the Iron Transport Pipe you want the items to go to with a wrench, giving it a redstone signal or with a gate.
+Items will travel in through the solid sides and be fed out towards the clear facing side.
+The direction the items will travel can be changed by: Whacking the side of the Iron Transport Pipe you want the items to go to with a wrench, giving it a redstone signal or with a gate.
 
 Items will not travel back in the direction it came from and only in a different direction.
-If there is no other connecting pipe or the adjacent inventory is full and there is no where else for the item to go, the items will not bounce back and continuosly try to travel in the direction set.
+If there is no where for the travelling items to go, they will bounce back and forth to continuously try to travel in the direction set.
 
-Some machines can automatically output items directly into a Iron Transport Pipe without needing to be fed through an extraction pipe.
+Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
+Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 </no_lore>
-// TODO: Link to main pipe page!

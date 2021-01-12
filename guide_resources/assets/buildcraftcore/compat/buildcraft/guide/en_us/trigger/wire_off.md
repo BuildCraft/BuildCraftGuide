@@ -1,8 +1,8 @@
 <no_lore>
-Pipe Signal Off is a gate trigger provided on any gate placed that also has a pipe wire of that colour is attatched.
+Pipe Signal Off is a gate trigger provided on any gate that also has a pipe wire of that colour is attatched to the same pipe.
 
-Whenever the Pipe Signal Off gate tigger is selected, the selected connected action will only be activated when the connected pipe wire of the same colour is not activated.
+When selected, the connected actions will only be activated when the connected pipe wire of the same colour is not activated.
 
-When Pipe Signal Off and the gate installed has parameters available, the Pipe Signal On and Pipe Signal Off of the other connected Pipe Wire Colours becomes availible as a parameter.
-Selecting Pipe Signal On or Pipe Signal Off as a parameter to your inital Trigger means you can have multiple pipe wire requirements before the resulting action is activated.
+When Pipe Signal Off and the gate installed has parameters available, the Pipe Signal On and Pipe Signal Off of the other connected Pipe Wire Colours becomes available as a parameter.
+Selecting Pipe Signal On or Pipe Signal Off as a parameter to your inital trigger means you can have multiple pipe wire requirements before triggering.
 </no_lore>

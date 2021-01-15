@@ -3,3 +3,7 @@
 import "buildcraftlib:util" "buildcraftcore:main"
 
 plug "plug_facade"
+plug "plug_light_sensor"
+plug "plug_pulsar"
+plug "plug_lens"
+// plug "plug_filter"

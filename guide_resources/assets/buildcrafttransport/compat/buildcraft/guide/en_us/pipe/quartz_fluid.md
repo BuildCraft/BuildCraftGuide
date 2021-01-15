@@ -1,14 +1,26 @@
+<lore>
+Transporting your fluids to where you want them to go at a more preferable speed.
+</lore>
 <no_lore>
-A Quartz Fluid Pipe is used to transport fluids from a pipe into either another adjacent pipe or tank.
-Some machines can autoput fluids directly into a Quartz Fluid Pipe without needing to be fed through an extraction pipe.
+A Quartz Fluid Pipe is used to transport fluids from a pipe into connecting pipes/tanks.
+</no_lore>
 
-Fluids will not travel back in the direction it came from and only in a different direction.
-Incase of their being multiple directions fluids could go, the fluids will be distrubuted evenly between them.
-(It is recommended to use pipe plugs to stop the multiple connections)
+<recipes stack="buildcrafttransport:pipe_quartz_fluid"/>
+
+<chapter name="Pipe Mechanics"/>
+Quartz Fluid pipes transports fluids at a more preferable speed.
 
 Quartz Fluid pipes will not connect to Cobblestone Fluid Pipes or Stone Fluid Pipes.
 
+Fluids will not travel back in the direction it came from and only in a different direction.
+If there are multiple directions the fluids could go, the fluids will be distrubuted evenly between them.
+
+Some machines can output fluids directly into it without being fed through a powered extraction pipe.
+Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
+
+<no_detail>
 The Quartz Fluid pipe transports fluids to adjacent pipes and tanks at 0.8 buckets per second.
 Fluid pipes have an internal fluid tank which can hold 1 bucket per side and 1 Bucket in the centre.
-</no_lore>
-// TODO: Link to main pipe page!
+</no_detail>
+
+<usages stack="buildcrafttransport:pipe_quartz_fluid"/>

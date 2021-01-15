@@ -1,14 +1,26 @@
+<lore>
+Transporting your fluids to where you want them to go fairly slowly.
+</lore>
 <no_lore>
-A Cobblestone Fluid Pipe is used to transport fluids from a pipe into either another adjacent pipe or tank.
-Some machines can autoput fluids drectly into a Cobblestone Fluid Pipe without needing to be fed through an extraction pipe.
+A Cobblestone Fluid Pipe is used to transport fluids from a pipe into connecting pipes/tanks.
+</no_lore>
 
-Fluids will not travel back in the direction it came from and only in a different direction.
-Incase of their being multiple directions fluids could go, the fluids will be distrubuted evenly between them.
-(It is recommended to use pipe plugs to stop the multiple connections)
+<recipes stack="buildcrafttransport:pipe_cobble_fluid"/>
+
+<chapter name="Pipe Mechanics"/>
+Cobblestone Fluid pipes are the slowest pipe at transport fluids.
 
 Cobblestone Fluid pipes will not connect to Stone Fluid Pipes or Quartz Fluid Pipes.
 
+Fluids will not travel back in the direction it came from and only in a different direction.
+If there are multiple directions the fluids could go, the fluids will be distrubuted evenly between them.
+
+Some machines can output fluids directly into it without being fed through a powered extraction pipe.
+Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
+
+<no_detail>
 The Cobblestone Fluid pipe transports fluids to adjacent pipes and tanks at 0.2 buckets per second.
 Fluid pipes have an internal fluid tank which can hold 1 bucket per side and 1 Bucket in the centre.
-</no_lore>
-// TODO: Link to main pipe page!
+</no_detail>
+
+<usages stack="buildcrafttransport:pipe_cobble_fluid"/>

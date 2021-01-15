@@ -1,6 +1,13 @@
+<lore>
+Transporting items at a faster pace to where you want them to go.
+</lore>
 <no_lore>
 A Quartz Transport Pipe is used to transport items from a pipe into connecting pipes/inventories.
+</no_lore>
 
+<recipes stack="buildcrafttransport:pipe_quartz_item"/>
+
+<chapter name="Pipe Mechanics"/>
 The Quartz Transport pipe gives transported items a small amount of drag so they will slow accelerated items.
 
 Quartz Transport pipes will not connect to Cobblestone or Stone Transport Pipes.
@@ -11,4 +18,5 @@ If there is no where for the travelling items to go, they will be dropped out of
 
 Some machines can automatically output items directly into it without being fed through a powered extraction pipe.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
-</no_lore>
+
+<usages stack="buildcrafttransport:pipe_quartz_item"/>

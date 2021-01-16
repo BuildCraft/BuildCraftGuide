@@ -23,7 +23,7 @@ alias item_stack 4 `add_basic "%2" "item_stack" "%0" "%1" \`,
     "stack": "%3"
 \``
 alias statement 4 `add_basic "%2" "statement" "%0" "%1" \`,
-    "statement": "${domain}:%3"
+    "statement": "%3"
 \``
 
 alias item 3 `item_stack "item" "%0" "%1" "%2"`

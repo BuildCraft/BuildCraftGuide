@@ -1,5 +1,11 @@
+<lore>
+Is it light outside the gate? If so then it will trigger.
+</lore>
 <no_lore>
 Bright is a gate trigger provided on any gate that also has a Light Sensor of that colour is attatched to the same pipe.
-
-When selected, the connected actions will only be activated when the light level of the block infront of the Light Sensor is high.
 </no_lore>
+
+<chapter name="Requirements"/>
+When selected, the connected actions will only be activated when the light level of the block infront of the Light Sensor is high.
+
+<link to="buildcraftsilicon:item/plug_light_sensor"/> 

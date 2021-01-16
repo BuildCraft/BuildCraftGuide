@@ -1,5 +1,11 @@
+<lore>
+Is it light outside the gate? If not then it will trigger.
+</lore>
 <no_lore>
 Dark is a gate trigger provided on any gate that also has a Light Sensor of that colour is attatched to the same pipe.
-
-When selected, the connected actions will only be activated when the light level of the block infront of the Light Sensor is low.
 </no_lore>
+
+<chapter name="Requirements"/>
+When selected, the connected actions will only be activated when the light level of the block infront of the Light Sensor is low.
+
+<link to="buildcraftsilicon:item/plug_light_sensor"/> 

@@ -36,3 +36,20 @@ pipef "diamond_wood_fluid"
 
 plug "plug_power_adaptor"
 plug "plug_blocker"
+
+trigger "pipe_item" "items_traversing" "buildcraft:pipe_contains_items"
+trigger "pipe_fluid" "fluids_traversing" "buildcraft:pipe_contains_fluids"
+trigger "pipe_item" "pipe_empty" "buildcraft:pipe_empty"
+trigger "pipe_plug" "pipe_signal_active" "buildcraft.pipe.wire.input.black.active"
+trigger "pipe_plug" "pipe_signal_inactive" "buildcraft.pipe.wire.input.black.inactive"
+
+action "pipe_item" "pipe_direction_north" "buildcraft:pipe.dir.north"
+action "pipe_item" "pipe_direction_east" "buildcraft:pipe.dir.east"
+action "pipe_item" "pipe_direction_south" "buildcraft:pipe.dir.south"
+action "pipe_item" "pipe_direction_west" "buildcraft:pipe.dir.west"
+action "pipe_item" "pipe_direction_above" "buildcraft:pipe.dir.up"
+action "pipe_item" "pipe_direction_below" "buildcraft:pipe.dir.down"
+
+action "pipe_plug" "pipe_signal_active" "buildcraft:pipe.wire.output.black"
+action "pipe_item" "pipe_colour" "buildcraft:pipe.color.black"
+action "pipe_item" "extraction_preset" "buildcraft:extraction.preset.red"

@@ -1,7 +1,11 @@
+<lore>
+The Lazuli and Diazuli Transportpipe allows you to paints/sort painted items, this action can change what colour are painted/sorted.
+</lore>
 <no_lore>
 Paint Items is a gate action provided on any gate that is placed on a Lazuli or Diazuli Transport Pipe.
+</no_lore>
 
+<chapter name="Requirements"/>
 When the action is activated, the gate will adjust the pipe accordingly:
 The Lazuli Pipe will paint items that pass through the pipe the colour selected by the Paint Items action.
 The Diazuli Pipe will send items only painted by the colour selected by the Paint Items action towards the direction selected.
-</no_lore>

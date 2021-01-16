@@ -12,7 +12,6 @@ buildcraft.guide.chapter.subtype.item=Item
 buildcraft.guide.chapter.subtype.mining=Mining
 buildcraft.guide.chapter.subtype.engine=Engines
 buildcraft.guide.chapter.subtype.automation=Automation
-buildcraft.guide.chapter.subtype.pipes=Pipe Basics
 buildcraft.guide.chapter.subtype.pipe_item=Item Transport
 buildcraft.guide.chapter.subtype.pipe_fluid=Fluid Transport
 buildcraft.guide.chapter.subtype.pipe_plug=Pluggables

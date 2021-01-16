@@ -9,3 +9,6 @@ Paint Items is a gate action provided on any gate that is placed on a Lazuli or 
 When the action is activated, the gate will adjust the pipe accordingly:
 The Lazuli Pipe will paint items that pass through the pipe the colour selected by the Paint Items action.
 The Diazuli Pipe will send items only painted by the colour selected by the Paint Items action towards the direction selected.
+
+<link to="buildcrafttransport:pipe/lapis_item"/>
+<link to="buildcrafttransport:pipe/daizuli_item"/>

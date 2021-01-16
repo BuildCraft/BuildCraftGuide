@@ -1,5 +1,5 @@
 <lore>
-Using a gate to extract certain items is the latest techincal revolution in filting technology.
+Using a gate to extract certain items is the latest technical revolution in filtering technology.
 </lore>
 <no_lore>
 A Emzuli Transport Pipe is gate controlled pipe used to extract selected items determined by its filter from an inventory when given power.
@@ -17,7 +17,7 @@ Some machines can automatically output items directly into a Emzuli Pipe without
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 
 <chapter name="Filtering"/>
-Opening up the Emzuli Transport Pipe GUI will four colours for four seperate filtering options.
+Opening up the Emzuli Transport Pipe GUI will four colours for four separate filtering options.
 Placing items in the slots will allow you to what each filter extracts.
 The colours of the paintbrushes next to the slots will determine what colour they will be painted when extracted can can be changed by clicking on them.
 To select which of the four filters is extracted, It requires a gate placed on it with a coloured Extraction Preset action provided. I.e. Redstone signal - > Red Extraction Preset.
@@ -26,11 +26,11 @@ A List can be used in a filtering slots to give you expanded filtering options.
 <link to="buildcraftcore:item/list"/> 
 
 <chapter name="Powering"/>
-It can recieve power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
+It can receive power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
 <link to="buildcraftcore:block/engine_wood"/>
 <link to="buildcrafttransport:item/plug_power_adaptor"/>
 <link to="buildcraftsilicon:item/plug_pulsar"/> 
-For each pulse of power it recieves, it will extract items from the adjacent inventory.
+For each pulse of power it receives, it will extract items from the adjacent inventory.
 The more power a pulse has, the more items will be extracted per pulse.
 
 <usages stack="buildcrafttransport:pipe_emzuli_item"/>

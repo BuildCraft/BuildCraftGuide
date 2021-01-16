@@ -28,11 +28,11 @@ A List can be used in a filtering slots to give you expanded filtering options.
 <link to="buildcraftcore:item/list"/> 
 
 <chapter name="Powering"/>
-It can recieve power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
+It can receive power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
 <link to="buildcraftcore:block/engine_wood"/>
 <link to="buildcrafttransport:item/plug_power_adaptor"/>
 <link to="buildcraftsilicon:item/plug_pulsar"/> 
-For each pulse of power it recieves, it will extract items from the adjacent inventory.
+For each pulse of power it receives, it will extract items from the adjacent inventory.
 The more power a pulse has, the more items will be extracted per pulse.
 
 <usages stack="buildcrafttransport:pipe_diamond_wood_item"/>

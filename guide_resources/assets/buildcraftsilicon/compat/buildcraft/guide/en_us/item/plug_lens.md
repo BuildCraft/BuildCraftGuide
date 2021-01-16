@@ -8,7 +8,7 @@ The Lens is a pluggable used to paint any item that travel through it the same c
 <recipes stack="buildcraftsilicon:plug_lens"/>
 
 <chapter name="Plug Mechanics"/>
-The painting of items allows you extra filtering options for your pipe system but does not actually affect their ingame colour.
+The painting of items allows you extra filtering options for your pipe system but does not actually affect their in world colour.
 Lenses can only be placed on item Transport pipes as only items can be painted.
 
 <chapter name="Pipe Connections"/>

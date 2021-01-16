@@ -8,9 +8,9 @@ A Clay Fluid Pipe is used to transport fluids from a pipe into connecting pipes/
 <recipes stack="buildcrafttransport:pipe_clay_fluid"/>
 
 <chapter name="Pipe Mechanics"/>
-The Clay Fluid pipe will priotitise inserting fluid into an adjacent tank before traveling to the next pipe.
+The Clay Fluid pipe will prioritise inserting fluid into an adjacent tank before traveling to the next pipe.
 Fluids will not travel back in the direction it came from and only in a different direction.
-If there are multiple directions fluid could go, it will be distrubuted evenly between them (priotitising tanks).
+If there are multiple directions fluid could go, it will be distributed evenly between them (prioritising tanks).
 
 Some machines can output fluids directly into it without being fed through a powered extraction pipe.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.

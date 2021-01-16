@@ -6,7 +6,7 @@ Engine Red is a gate trigger provided on any gate that has an Engine next to it.
 </no_lore>
 
 <chapter name="Requirements"/>
-When selected, the connected actions will only be activated when the adjacent engine is at its red tempurature stage.
+When selected, the connected actions will only be activated when the adjacent engine is at its red temperature stage.
 
 <chapter name="Trigger directions"/>
 Gates may show the Engine Red trigger multiple times in different colours to represent each of the different connected engines.

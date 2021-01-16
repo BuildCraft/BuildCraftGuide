@@ -1,5 +1,5 @@
 <lore>
-Only Red painted items will thravel through it, if the filter is red of course.
+Only Red painted items will travel through it, if the filter is red of course.
 </lore>
 <no_lore>
 The Filter is a pluggable used to pull any piped in items painted the same colour as itself and only let that coloured item pass through.

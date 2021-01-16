@@ -2,7 +2,7 @@
 Want to sort your painted items, just set a colour and a direction and pipe them through.
 </lore>
 <no_lore>
-A Daizuli Transport Pipe is used to transport send painted items it recieves in one direction towards a connecting pipe/inventory.
+A Daizuli Transport Pipe is used to transport send painted items it receives in one direction towards a connecting pipe/inventory.
 </no_lore>
 
 <recipes stack="buildcrafttransport:pipe_daizuli_item"/>

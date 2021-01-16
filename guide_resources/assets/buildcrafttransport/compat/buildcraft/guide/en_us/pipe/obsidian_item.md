@@ -16,15 +16,15 @@ An Obsidian Transport Pipe has to be 'pointing' in a direction to have an area o
 If the pipe has multiple connections, It will lose its ability to pick up items from the world.
 
 <chapter name="Pipe Mechanics"/>
-If there is no where for the recieved items to go, they will be dropped out of the pipe onto the ground.
+If there is no where for the received items to go, they will be dropped out of the pipe onto the ground.
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 
 <chapter name="Powering"/>
-It can recieve power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
+It can receive power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
 <link to="buildcraftcore:block/engine_wood"/>
 <link to="buildcrafttransport:item/plug_power_adaptor"/>
 <link to="buildcraftsilicon:item/plug_pulsar"/> 
-For each pulse of power it recieves, it will pick up items from the ground.
+For each pulse of power it receives, it will pick up items from the ground.
 The more power a pulse has, the more items will pick up per pulse.
 
 <usages stack="buildcrafttransport:pipe_obsidian_item"/>

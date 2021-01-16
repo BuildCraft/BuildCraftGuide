@@ -2,7 +2,7 @@
 Through a light sensor you can use the power of light to control your gates.
 </lore>
 <no_lore>
-The Light Sensor is a pluggable used to detect the light level of the block infront of it and provide that data to the Gate on the adjacent side of the  same pipe.
+The Light Sensor is a pluggable used to detect the light level of the block in front of it and provide that data to the Gate on the adjacent side of the  same pipe.
 </no_lore>
 
 <recipes stack="buildcraftsilicon:plug_light_sensor"/>

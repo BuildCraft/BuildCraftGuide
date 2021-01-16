@@ -7,4 +7,4 @@ Face the Bottom Side is a gate action provided on any gate that is placed on a p
 
 <chapter name="Setting the Direction"/>
 When the action is activated, the pipe its placed on will set the Bottom as its direction.
-That means that the pipe will sends its contents in the downwards direction or the pipe will complete its in world operations downwards.
+That means that the pipe will sends its contents in the downward direction or the pipe will complete its in world operations downward.

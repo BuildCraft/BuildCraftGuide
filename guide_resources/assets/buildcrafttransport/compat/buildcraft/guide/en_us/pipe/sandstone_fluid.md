@@ -11,7 +11,7 @@ A Sandstone Fluid Pipe is used to transport fluids from a pipe into connecting p
 It does not connect to any machine so it only connects to other pipes.
 
 Fluids will not travel back in the direction it came from and only in a different direction.
-If there are multiple directions the fluids could go, the fluids will be distrubuted evenly between them.
+If there are multiple directions the fluids could go, the fluids will be distributed evenly between them.
 
 Using Pipe Plugs or painting pipes a different colour can stop pipes connecting.
 

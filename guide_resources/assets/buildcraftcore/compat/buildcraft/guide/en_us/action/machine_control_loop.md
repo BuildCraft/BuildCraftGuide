@@ -1,5 +1,5 @@
 <lore>
-Making the machine run over and over agian.
+Making the machine run over and over again.
 </lore>
 <no_lore>
 Loop is a gate action provided on any gate that is placed next to a machine which could be operating.

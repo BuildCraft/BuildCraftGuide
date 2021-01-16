@@ -8,7 +8,7 @@ A Clay Transport Pipe is used to transport items from a pipe into a connecting p
 <recipes stack="buildcrafttransport:pipe_clay_item"/>
 
 <chapter name="Pipe Mechanics"/>
-The Clay Transport pipe will priotitise trying to insert items into an inventory before traveling onwards.
+The Clay Transport pipe will prioritise trying to insert items into an inventory before traveling onwards.
 
 If it has multiple connecting sides, the items will prioritise a connected inventory before travelling in a random direction.
 Items will not travel back in the direction it came from and only go a different direction.

@@ -23,11 +23,11 @@ Whitelist: Only the fluids selected will be extracted.
 Blacklist: Any fluid other than the fluid selected will be extracted.
 
 <chapter name="Powering"/>
-It can recieve power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
+It can receive power from any MJ power source such as: an engine, a power adaptor, or a pipe pulsar.
 <link to="buildcraftcore:block/engine_wood"/>
 <link to="buildcrafttransport:item/plug_power_adaptor"/>
 <link to="buildcraftsilicon:item/plug_pulsar"/> 
-For each pulse of  power it recieves, it will extract from the adjacent tank.
+For each pulse of  power it receives, it will extract from the adjacent tank.
 The more power a pulse has, the more fluids will be extracted per pulse.
 
 <no_detail>

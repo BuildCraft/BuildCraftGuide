@@ -1,8 +1,8 @@
 <lore>
-Redstone takes up alot of space nowadays. Why not have finer control over system in a more compact space using pipes. Just place a Gate on a pipe and start thinking.
+Redstone takes up a lot of space nowadays. Why not have finer control over system in a more compact space using pipes. Just place a Gate on a pipe and start thinking.
 </lore>
 <no_lore>
-The Gate is a upgradable pluggable used to provide a logistical framework to help manage your pipe system.
+The Gate is a upgradeable pluggable used to provide a logistical framework to help manage your pipe system.
 </no_lore>
 
 <recipes stack="buildcraftsilicon:plug_gate"/>
@@ -29,11 +29,11 @@ Using an AND Gate ensures that </bold>all</bold> connected Triggers are active b
 Using an OR Gate ensures that </bold>one or more</bold> connected Triggers are active before the connection to the actions is made active.
 
 <chapter name="Triggers"/>
-The Icons on the left hand side are known as Triggers. These are dragged into the slots on the left side of the GUI.
-Different Triggers are used to detect different things, each with different criterias. When a Triggers criteria is met, the adjacent connection will become active.
+The Icons on the left-hand side are known as Triggers. These are dragged into the slots on the left side of the GUI.
+Different Triggers are used to detect different things, each with a different criteria. When a Triggers criteria is met, the adjacent connection will become active.
 
 <chapter name="Actions"/>
-The Icons on the right hand side are known as Actions. These are dragged into the slots on the right side of the GUI.
+The Icons on the right-hand side are known as Actions. These are dragged into the slots on the right side of the GUI.
 Different actions result in different task being completed. When the adjacent connection is active, the connected actions are undertaken.
 
 <chapter name="Parameters"/>
@@ -42,9 +42,9 @@ These extra slots can provide extra functionality to make your triggers/actions 
 In these extra slots you either: click the slot to access more options or place items in as a filter.
 
 <chapter name="Connections"/>
-The lines down the middle us used to connect the Triggers to the Actions so they can work together.
+The lines down the middle are used to connect the Triggers to the Actions, so they can work together.
 They can be clicked to be connected/disconnected to require multiple triggers/actions to require multiple triggers/actions etc.
-When a trigger is met, the line in the middle will light up (only partially if there atre multiple triggers required).
+When a trigger is met, the line in the middle will light up (only partially if there are multiple triggers required).
 When a line is lit up, then the actions they are connected to will be undertaken.
 
 <usages stack="buildcraftsilicon:plug_gate"/>

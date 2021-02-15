@@ -18,5 +18,7 @@ Combustion engines will only turn black if the engines internal power buffer fil
 Engines will always connect to the nearest compatible MJ consumer.
 You can use a Wrench to rotate it to change which block it is powering.
 
+Combustion engines can be "chained" in a line with up to 5 engines in total.
+
 As with all engines, it <bold>requires a redstone signal to run.</bold>
 Gates can be used to detect the engines temperature stages to help you control them.

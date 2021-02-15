@@ -12,6 +12,6 @@ BuildCraft engines have 5 temperature stages, which determines the speed the eng
 Stirling engines will only turn black if the engines internal power buffer fills up as the power has nowhere to go, thus the engine will overheat and needs to be wrenched to be cooled.
 Engines will always connect to the nearest compatible MJ consumer.
 You can use a Wrench to rotate it to change which block it is powering.
-
+Stirling engines can be "chained" in a line with up to 3 engines in total.
 As with all engines, it <bold>requires a redstone signal to run.</bold>
 Gates can be used to detect the engines temperature stages to help you control them.
